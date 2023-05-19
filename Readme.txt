@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Arsha
-Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
+Template Name: Bootslander
+Template URL: https://bootstrapmade.com/bootslander-free-bootstrap-landing-page-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
